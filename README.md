@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋.<br/>
+I code in C++ and C#, but have a goal of learning HTML, CSS and JS for web development. <br/>
+I code in my freetime, and create mods for Beat Saber.
+
+# Mods 
+- [No360HUD](https://github.com/Rugtveit/No360HUD "No360HUD") <br/> Disables 360 HUD for maps that have no valid rotation events on PC for Beat Saber. 
+- [QuestSounds](https://github.com/Rugtveit/QuestSounds "QuestSounds") <br/> Allows the user to change sfx easily on Oculus Quest for Beat Saber. 
+
+
+
 
 <!--
 **Rugtveit/Rugtveit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
