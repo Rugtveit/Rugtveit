@@ -5,5 +5,5 @@ If you are interested in my past work I suggest checking out my C++ mods for Bea
 
 # Mods 
 - [QuestSounds](https://github.com/Rugtveit/QuestSounds "QuestSounds") <br/> Allows the user to change sfx easily on Oculus Quest for Beat Saber. 
-- [GoodbyeBug](https:://github.com/Rugtveit/GoodbyeBug "GoodbyeBug") <br/> Beat Saber mod that fixes bugs that were introduced in 1.12.2.
+- [GoodbyeBug](https://github.com/Rugtveit/GoodbyeBug "GoodbyeBug") <br/> Beat Saber mod that fixes bugs that were introduced in 1.12.2.
 
