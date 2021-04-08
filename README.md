@@ -1,9 +1,8 @@
-### Hi there 👋.<br/>
-I'm a self-taught programmer with past C#, and C++ knowledge. <br/>
-I'm working on new projects to become a full-stack developer <br/>
+<img src="https://raw.githubusercontent.com/Rugtveit/Rugtveit/master/Readme%20Banner.png" alt="Banner that says Lillie Rugtveit, Junior Full-stack Developer and beside is an illustration of Lillie Rugtveit">
 
-# Current Projects
-## QuestPackages
+## Projects
+
+### QuestPackages
 A simple full stack project, that caches the packages from qpackages.com
 and saves it to a database. This is because the current api qpackages.com has is limiting for frontend.
 
